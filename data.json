@@ -1,0 +1,69 @@
+{
+  "operators": [
+    {
+      "id": "OP1",
+      "name": "OPAA",
+      "email": "opaa@gmail.com"
+    },
+    {
+      "id": "OP2",
+      "name": "OPBB",
+      "email": "opbb@gmail.com"
+    },
+    {
+      "id": "OP3",
+      "name": "OPAA",
+      "email": "opcc@gmail.com"
+    }
+  ],
+  "customers": [
+    {
+      "id": "1",
+      "name": "AA",
+      "email": "aa@gmail.com",
+      "age": 35,
+      "operatorID": "OP1"
+    },
+    {
+      "id": "2",
+      "name": "BB",
+      "email": "bb@gmail.com",
+      "age": 25,
+      "operatorID": "OP2"
+    },
+    {
+      "id": "3",
+      "name": "CC",
+      "email": "cc@gmail.com",
+      "age": 25,
+      "operatorID": "OP3"
+    },
+    {
+      "id": "4",
+      "name": "DD",
+      "email": "dd@gmail.com",
+      "age": 28,
+      "operatorID": "OP1"
+    },
+    {
+      "id": "MFBBLhz",
+      "name": "EE",
+      "email": "ee@gmail.com",
+      "age": 32,
+      "operatorID": "OP2"
+    },
+    {
+      "id": "xHYU2N7",
+      "name": "EE",
+      "email": "ee@gmail.com",
+      "age": 32,
+      "operatorID": "OP2"
+    },
+    {
+      "name": "EE",
+      "email": "ee@gmail.com",
+      "age": 32,
+      "id": "tYPKhij"
+    }
+  ]
+}
